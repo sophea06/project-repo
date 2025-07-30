@@ -39,3 +39,25 @@ Project description here
 > composer instal
 
 > pip install
+
+
+## Code online
+`print ("Hello world)`
+
+`npm install express`
+
+## Code multiple
+```html
+<h1> hello world</h1>
+<p>this is par</p>
+```
+```python
+for i in range(10):
+    print(i)
+```
+```css
+nav{
+    display: flex;
+    justify-content: center;
+}
+```
