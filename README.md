@@ -61,3 +61,8 @@ nav{
     justify-content: center;
 }
 ```
+## Chech list
+- [x ] Home page
+- [ x] About page
+- [ ] Service page
+- [ ] Product page
