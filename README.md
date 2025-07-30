@@ -66,3 +66,9 @@ nav{
 - [ x] About page
 - [ ] Service page
 - [ ] Product page
+
+## Link image
+[Link Text](https://example.com)
+
+![Alt Text](banner.png)
+![Alt Text](img1.jpg)
