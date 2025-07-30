@@ -28,4 +28,14 @@ Project description here
 ## Table
 | id | name | age | phone |
 | --- | ---| ---| ---- |
-| 01 | sophea | 25| Oppogit |
+| 01 | sophea | 25| Oppo |
+| 02 | nary | 25| Iphone |
+
+
+## Block quote
+
+> npm install
+
+> composer instal
+
+> pip install
